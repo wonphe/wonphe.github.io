@@ -4,7 +4,7 @@
 baseurl:
 url: https://www.0x16.top
 date_format: "ordinal"
-title: "0x16 笔记"
+title: "0x16 个人笔记"
 subtitle: "记录点点滴滴"
 description:
 keywords: 笔记
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: '0x16.top'
 organization: '0x16.top'
 organization_url: https://www.0x16.top
-github_username: '0x16'
+github_username: wonphe
 location: Suzhou, China
 email: wonphe@163.com
 
