@@ -1,13 +1,13 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://www.0x16.top
+baseurl:
 url: https://www.0x16.top
 date_format: "ordinal"
-title: '0x16笔记'
+title: 笔记
 subtitle: "记录点点滴滴"
 description:
-keywords: '0x16', 笔记
+keywords: 笔记
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
