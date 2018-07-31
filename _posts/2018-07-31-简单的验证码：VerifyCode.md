@@ -9,6 +9,7 @@ date: 2018-07-31 11:31:00
 
 本文提供了一个简单的验证码生成和验证demo
 
+# Source
 ```java
 import javax.imageio.ImageIO;
 import java.awt.*;
