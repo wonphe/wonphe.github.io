@@ -1,3 +1,7 @@
 - sitename: GitHub
   name: wonphe
   url: https://github.com/wonphe
+  
+ - sitename: Email
+  name: wonphe
+  url: mailto:wonphe.163.com
