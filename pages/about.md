@@ -12,7 +12,7 @@ permalink: /about/
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-* mailTo:{{ site.email }}
+* Email：[@{{ website.name }}](mailTo:{{ site.email }})
 {% endfor %}
 
 ## Skill Keywords
