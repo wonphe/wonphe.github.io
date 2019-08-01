@@ -27,10 +27,10 @@ permalink: /about/
 
 ## 打赏
 
-![支付宝红包]({{ website.url }}/YueDu/zfbhbrwm.jpg)({{ website.url }}/YueDu/zfbhbrwm.jpg)
+[![支付宝红包]({{ website.url }}/YueDu/zfbhbrwm.jpg)]({{ website.url }}/YueDu/zfbhbrwm.jpg)
 
-![支付宝收款码]({{ website.url }}/YueDu/zfbskrwm.jpg)({{ website.url }}/YueDu/zfbskrwm.jpg)
+[![支付宝收款码]({{ website.url }}/YueDu/zfbskrwm.jpg)]({{ website.url }}/YueDu/zfbskrwm.jpg)
 
-![微信收款码]({{ website.url }}/YueDu/wxskrwm.png)({{ website.url }}/YueDu/wxskrwm.png)
+[![微信收款码]({{ website.url }}/YueDu/wxskrwm.png)]({{ website.url }}/YueDu/wxskrwm.png)
 
-![QQ收款码]({{ website.url }}/YueDu/qqskrwm.png)({{ website.url }}/YueDu/qqskrwm.png)
+[![QQ收款码]({{ website.url }}/YueDu/qqskrwm.png)]({{ website.url }}/YueDu/qqskrwm.png)
