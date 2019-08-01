@@ -14,6 +14,16 @@ permalink: /about/
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
+## 打赏
+
+![支付宝红包]({{ website.url }}/YueDu/zfbhbrwm.jpg)
+
+![支付宝收款码]({{ website.url }}/YueDu/zfbhbrwm.jpg)
+
+![微信收款码]({{ website.url }}/YueDu/zfbhbrwm.jpg)
+
+![QQ收款码]({{ website.url }}/YueDu/zfbhbrwm.jpg)
+
 ## Skill Keywords
 
 {% for category in site.data.skills %}
