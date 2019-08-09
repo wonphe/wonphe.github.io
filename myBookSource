@@ -1308,6 +1308,36 @@
   "weight": 0
 }
 ,{
+  "bookSourceGroup": "S级",
+  "bookSourceName": "雅文小说",
+  "bookSourceUrl": "https://www.yawen365.com-By Dark",
+  "enable": false,
+  "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36",
+  "loginUrl": "",
+  "ruleBookAuthor": "",
+  "ruleBookContent": "class.content@textNodes",
+  "ruleBookName": "",
+  "ruleChapterList": "class.mulu@tag.li!0:1:2:3:4:5:6:7:8:9",
+  "ruleChapterName": "tag.a.0@text",
+  "ruleChapterUrl": "class.operate clearfix.0@tag.a.2@href",
+  "ruleChapterUrlNext": "",
+  "ruleContentUrl": "tag.a.0@href",
+  "ruleContentUrlNext": "",
+  "ruleCoverUrl": "class.cover@tag.img@src",
+  "ruleFindUrl": "",
+  "ruleIntroduce": "class.desc@textNodes#内容简介：",
+  "ruleSearchAuthor": "class.a2@tag.a.0@text",
+  "ruleSearchCoverUrl": "class.cover@tag.img@src",
+  "ruleSearchKind": "class.nt@text",
+  "ruleSearchLastChapter": "class.c2@tag.a.0@text",
+  "ruleSearchList": "tag.li",
+  "ruleSearchName": "class.n2@tag.a.0@text",
+  "ruleSearchNoteUrl": "class.n2@tag.a.0@href",
+  "ruleSearchUrl": "https://www.yawen365.com/search.htm?keyword=searchKey",
+  "serialNumber": 23,
+  "weight": 0
+}
+,{
   "bookSourceGroup": "A级",
   "bookSourceName": "追书网",
   "bookSourceUrl": "https://www.zhuishu.tw-By Dark",
