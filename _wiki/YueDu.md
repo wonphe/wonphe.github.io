@@ -14,7 +14,7 @@ keywords: App
 
 ### 下载二维码(点击可直接下载)
 
-[![下载二维码](/images/wiki/YueDu_QR.png)](https://github.com/wonphe/YueDu/releases/download/2.19.080212/YueDu_2.19.080212.apk)
+[![下载二维码](/images/wiki/YueDu_QR.png)](https://github.com/wonphe/YueDu/releases/download/2.20.011915/YueDu_2.20.011915.apk)
 
 ### 书源二维码(点击可直接下载)
 
